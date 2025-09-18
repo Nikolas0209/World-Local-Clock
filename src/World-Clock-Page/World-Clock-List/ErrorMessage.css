@@ -1,0 +1,24 @@
+.message-container {
+  color: rgb(251, 102, 102);
+  backdrop-filter: blur(5px);
+  padding: 20px 20px;
+  border-radius: 10px;
+  display: flex;
+  width: 35%;
+  max-width: 510px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  border-width: 1px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  border: 1px solid rgb(251, 102, 102);
+}
+
+.error-message {
+  font-size: 23px;
+  font-weight: bold;
+}
+
