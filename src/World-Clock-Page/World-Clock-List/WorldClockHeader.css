@@ -1,0 +1,37 @@
+.world-clock-header {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  width: 100%;
+  max-width: 1000px;     
+  padding: 0 20px;       
+}
+
+.go-back-button {
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+.city-input-section {  
+  width: 100%;
+  max-width: 820px;              
+  display: flex;
+  justify-content: center; 
+}
+
+.add-button{
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+input {
+  padding: 15px;
+  border-radius: 20px;
+  width: 100%;
+  max-width: 680px;
+  border: none;
+  background-color: hsl(0, 0%, 80%);
+  font-weight: bold;
+  color: rgba(110, 108, 108, 0.977);
+  box-sizing: border-box;
+}
