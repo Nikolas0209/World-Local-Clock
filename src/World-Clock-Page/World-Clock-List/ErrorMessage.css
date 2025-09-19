@@ -1,6 +1,7 @@
 .message-container {
   color: rgb(251, 102, 102);
   backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(8px);
   padding: 20px 20px;
   border-radius: 10px;
   display: flex;
