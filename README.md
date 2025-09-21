@@ -39,4 +39,4 @@ http://localhost:5173/
 
 ![Analog Clock](screenshots/Analog-clock.png)
 ![Digital Clock](screenshots/Digital-clock.png)
-![World Clock ](screenshots/world-clock.png)
+![World Clock ](screenshots/World-clock.png)
